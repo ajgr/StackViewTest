@@ -11,7 +11,7 @@ This project was done in Xcode 7 and tested under Mac OS 10.11.
 The MIT License (MIT)
 ================
 
-Copyright (c) 2016 ajar
+Copyright (c) 2016 ajgr
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
