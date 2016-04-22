@@ -3,7 +3,7 @@
 //  StackeViewTest
 //
 //  Created by Arthur Roolfs on 4/21/16.
-//  Copyright © 2016 RoGame Software. All rights reserved.
+//  Copyright © 2016 Arthur Roolfs. All rights reserved.
 //
 
 #import "ViewController.h"
