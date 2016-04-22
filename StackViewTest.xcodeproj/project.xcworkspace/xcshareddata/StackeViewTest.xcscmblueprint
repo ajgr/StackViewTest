@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "e42642d4-58c2-46c3-ba2a-b93c1425e14c++505",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "e42642d4-58c2-46c3-ba2a-b93c1425e14c++505" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "e42642d4-58c2-46c3-ba2a-b93c1425e14c++505" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "368EC78D-CA42-4A2A-A2D1-89E2E0BFE95F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "e42642d4-58c2-46c3-ba2a-b93c1425e14c++505" : "Sequencer\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "StackeViewTest",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "_tests\/StackeViewTest\/StackeViewTest.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn+ssh:\/\/macpro.local\/users\/aroolfs\/svn\/apple\/Sequencer",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "e42642d4-58c2-46c3-ba2a-b93c1425e14c++505"
+    }
+  ]
+}

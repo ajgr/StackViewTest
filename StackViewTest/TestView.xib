@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="10116" systemVersion="15E65" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES" customObjectInstantitationMethod="direct">
+    <dependencies>
+        <deployment identifier="macosx"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="10116"/>
+    </dependencies>
+    <objects>
+        <customObject id="-2" userLabel="File's Owner" customClass="TestViewController">
+            <connections>
+                <outlet property="view" destination="c22-O7-iKe" id="uke-7u-a0C"/>
+            </connections>
+        </customObject>
+        <customObject id="-1" userLabel="First Responder" customClass="FirstResponder"/>
+        <customObject id="-3" userLabel="Application" customClass="NSObject"/>
+        <customView id="c22-O7-iKe" userLabel="TestView" customClass="TestView">
+            <rect key="frame" x="0.0" y="0.0" width="452" height="201"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
+            <subviews>
+                <button verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="E3p-5c-NxU">
+                    <rect key="frame" x="14" y="153" width="120" height="32"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="108" id="I4W-i0-zfy"/>
+                    </constraints>
+                    <buttonCell key="cell" type="push" title="Do Nothing Btn" bezelStyle="rounded" alignment="center" borderStyle="border" imageScaling="proportionallyDown" inset="2" id="yNs-2Q-KFl">
+                        <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
+                        <font key="font" metaFont="system"/>
+                    </buttonCell>
+                </button>
+            </subviews>
+            <constraints>
+                <constraint firstItem="E3p-5c-NxU" firstAttribute="leading" secondItem="c22-O7-iKe" secondAttribute="leading" constant="20" symbolic="YES" id="9OQ-Jy-oll"/>
+                <constraint firstItem="E3p-5c-NxU" firstAttribute="top" secondItem="c22-O7-iKe" secondAttribute="top" constant="20" symbolic="YES" id="keJ-yc-aBO"/>
+            </constraints>
+            <point key="canvasLocation" x="326" y="339.5"/>
+        </customView>
+    </objects>
+</document>
